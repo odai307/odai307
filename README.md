@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Gabriel Afotey
-- 👀 Transitioned from accounting to an incoming Software Engineer and Full Stack Developer
-- 🌱 I’m currently learning C programming language
+- 👀 Transitioned from accounting to a Full Stack Developer 
 
 
 <!---
