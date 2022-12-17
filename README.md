@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gabriel Afotey
-- 👀 Transitioned from accounting to a Full Stack Developer 
+- 👀 I'm Full Stack Developer 
+
 
 
 <!---
